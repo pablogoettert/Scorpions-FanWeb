@@ -1,0 +1,95 @@
+img
+	{
+		width: 220px;
+		height: 220px;
+	}
+figcaption
+	{
+		display: flex;
+		align-items: center;	
+	}
+footer
+	{
+		font-weight: bold;
+		display: flex;
+		bottom: 0;
+		width: 100%;
+		height: 100%;
+		flex-direction: row;
+		margin-top: 5rem;
+	}
+.color-curios{
+	color: rgb(255, 248, 27);
+}
+.img-logo{
+	width: 100px;
+	height: 100px;
+}
+.footer-c{
+	display: flex;
+	bottom: 0;
+	width: 100%;
+	height: 100%;
+	flex-direction: row;
+	margin-top: 5rem;
+	font-weight: bold;
+}
+.footer-h{
+	display: flex;
+	bottom: 0;
+	width: 100%;
+	height: 100%;
+	flex-direction: row;
+	margin-top: 35rem;
+	font-weight: bold;
+}
+.footer-H{
+	display: flex;
+	bottom: 0;
+	width: 100%;
+	height: 100%;
+	flex-direction: row;
+	margin-top: 15rem;
+	font-weight: bold;
+}
+.navbar{
+	font-weight: bold;
+	display: flex;
+	align-items: center;	
+	
+}
+
+.navbar-brand{
+	font-weight: bold; 
+	font-size:35px;
+}
+.nav-item{
+	padding-right:1rem; 
+}
+.navbar-nav{
+	padding-left: 2.5rem;
+}
+.integ-img{
+		width: 70px;
+		height: 70px;
+}
+.color-a{
+	color: black;
+}
+.text-color-a{
+	color: #8c8c8c;
+	font-weight: bold;
+}
+
+/*.social a{
+	display: block;
+	width: 36px;
+	height: 36px;
+	text-indent: -9999px;
+}
+
+.social li{
+	display: inline-block;
+	margin-left: 1em;
+}
+*/
